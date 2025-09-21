@@ -1,0 +1,27 @@
+{
+  "name": "tododatabase",
+  "version": "1.0.0",
+  "description": "database use todo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmaakter2024/todoDatabase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmaakter2024/todoDatabase/issues"
+  },
+  "homepage": "https://github.com/asmaakter2024/todoDatabase#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.18.1",
+    "nodemon": "^3.1.10"
+  }
+}
