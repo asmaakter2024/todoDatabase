@@ -22,3 +22,5 @@ res.send(data)
 };
 
 module.exports = registrationController;
+
+//database data always chotohater dia likhte hobe.
