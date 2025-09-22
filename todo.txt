@@ -1,0 +1,9 @@
+Todo-project:
+1. Authentication/Authorization -Registration Login(access token,refresh token)
+2.Email Verification
+3.Image upload
+4.Database Relation
+5.env setup
+6.Api documentation via Swagger (todo te sir korai dibe eshop r ta amader korte hobe)
+
+//class 79 r seshe sir aigula bolche
